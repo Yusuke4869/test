@@ -17,3 +17,4 @@ Object.defineProperty(exports, "__esModule", { value: true });
 __exportStar(require("./even"), exports);
 __exportStar(require("./odd"), exports);
 __exportStar(require("./prime"), exports);
+__exportStar(require("./natural"), exports);
