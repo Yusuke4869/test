@@ -16,3 +16,4 @@ var __exportStar = (this && this.__exportStar) || function(m, exports) {
 Object.defineProperty(exports, "__esModule", { value: true });
 __exportStar(require("./even"), exports);
 __exportStar(require("./odd"), exports);
+__exportStar(require("./prime"), exports);
