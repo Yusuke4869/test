@@ -8,7 +8,7 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "dev": "ts-node-dev src/main.ts",
-    "build": "rm -r ./dist && tsc",
+    "build": "tsc",
     "start": "node dist/main.js",
     "lint": "eslint --ignore-path .gitignore src/**/*.ts",
     "lint:fix": "eslint --ignore-path .gitignore src/**/*.ts --fix",
